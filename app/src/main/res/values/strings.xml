@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Mobile Apps Task 4</string>
+    <string name="nama">Laptop Acer Swift 7 (SF714-52T)</string>
+    <string name="content_text">Swift 7 (SF714-52T) diklaim sebagai salah satu laptop tertipis dan teringan di dunia dengan ketipisan 9,95 mm dan bobot hanya 890 gram saja. Gokil, kan?
+
+Seri terbaru yang dirilis pada 2019 ini hadir dengan panel layar sentuh 14 inci Full HD (1920 x 1080 piksel) berteknologi IPS yang menjanjikan tampilan lebih jernih.
+
+Untuk performanya sendiri, Swift 7 sudah dibekali prosesor Intel Core i7-8500Y dengan dukungan kartu grafis Intel UHD Graphics 615, geng.</string>
+    <string name="content_price">Rp29.999.000</string>
+    <string name="content_display">Dimensi: 317.5 x 190.5 x 9.95 mm Bobot: 890 gram</string>
+    <string name="title_activity_produk">ProdukActivity</string>
+    <string name="tab_text_1">Tab 1</string>
+    <string name="tab_text_2">Tab 2</string>
+
+
+</resources>
